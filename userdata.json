@@ -4962,7 +4962,8 @@
         554947,
         517256,
         519622,
-        517558
+        517558,
+        527320
     ],
     "rgOwnedApps": [
         10,
@@ -7279,6 +7280,7 @@
         1485430,
         1488230,
         1492330,
+        1495820,
         1495960,
         1499160,
         1501580,
@@ -7407,15 +7409,15 @@
     "rgIgnoredApps": [],
     "rgIgnoredPackages": [],
     "rgCurators": {
-        "39921923": {
-            "clanid": 39921923,
-            "avatar": "658d999252573b3e8211556b88ecd00e73dbaad1",
-            "name": "pcgameit playtest"
-        },
         "33779114": {
             "clanid": 33779114,
             "avatar": "8d3eb5dab46e4b69f9fb0efeae3db6b2fd54fc5e",
             "name": "pcgameit"
+        },
+        "39921923": {
+            "clanid": 39921923,
+            "avatar": "658d999252573b3e8211556b88ecd00e73dbaad1",
+            "name": "pcgameit playtest"
         }
     },
     "rgCuratorsIgnored": [],
