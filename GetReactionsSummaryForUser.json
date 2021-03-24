@@ -1,0 +1,247 @@
+{
+    "response": {
+        "total": [
+            {
+                "reactionid": 1,
+                "given": 0,
+                "received": 3,
+                "points_given": "0",
+                "points_received": "233"
+            },
+            {
+                "reactionid": 2,
+                "given": 1,
+                "received": 0,
+                "points_given": "100",
+                "points_received": "0"
+            },
+            {
+                "reactionid": 5,
+                "given": 0,
+                "received": 3,
+                "points_given": "0",
+                "points_received": "183"
+            },
+            {
+                "reactionid": 6,
+                "given": 0,
+                "received": 4,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 8,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "100"
+            },
+            {
+                "reactionid": 9,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 10,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 11,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "1600"
+            },
+            {
+                "reactionid": 13,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "800"
+            },
+            {
+                "reactionid": 15,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 16,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 18,
+                "given": 0,
+                "received": 3,
+                "points_given": "0",
+                "points_received": "300"
+            },
+            {
+                "reactionid": 19,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "200"
+            },
+            {
+                "reactionid": 22,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "200"
+            },
+            {
+                "reactionid": 23,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "100"
+            }
+        ],
+        "ugc": [
+            {
+                "reactionid": 1,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "133"
+            },
+            {
+                "reactionid": 2,
+                "given": 1,
+                "received": 0,
+                "points_given": "100",
+                "points_received": "0"
+            },
+            {
+                "reactionid": 5,
+                "given": 0,
+                "received": 3,
+                "points_given": "0",
+                "points_received": "183"
+            },
+            {
+                "reactionid": 6,
+                "given": 0,
+                "received": 3,
+                "points_given": "0",
+                "points_received": "300"
+            },
+            {
+                "reactionid": 8,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "100"
+            },
+            {
+                "reactionid": 9,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 10,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 11,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "1600"
+            }
+        ],
+        "profile": [
+            {
+                "reactionid": 1,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "100"
+            },
+            {
+                "reactionid": 18,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "200"
+            },
+            {
+                "reactionid": 19,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "200"
+            }
+        ],
+        "comments": [
+            {
+                "reactionid": 6,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "100"
+            },
+            {
+                "reactionid": 13,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "800"
+            },
+            {
+                "reactionid": 15,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 16,
+                "given": 0,
+                "received": 2,
+                "points_given": "0",
+                "points_received": "400"
+            },
+            {
+                "reactionid": 18,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "100"
+            },
+            {
+                "reactionid": 22,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "200"
+            },
+            {
+                "reactionid": 23,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "100"
+            }
+        ],
+        "total_given": 1,
+        "total_received": 26,
+        "total_points_given": "100",
+        "total_points_received": "5716"
+    }
+}
