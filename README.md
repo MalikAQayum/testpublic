@@ -27,7 +27,7 @@ Shows changes to the Steam profile.
 
 ## GitHub Actions
 
-> GitHub Actions checks [testpublic.yml](.github/workflows/testpublic.yml) in the private repo.
+> GitHub Actions runs [testpublic.yml](.github/workflows/testpublic.yml) in the private repo.
 
 ### discord feed
 
