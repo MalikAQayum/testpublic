@@ -2752,11 +2752,11 @@
         "name": "Dungeon Defenders II"
     },
     {
-        "appid": 212220,
+        "appid": 495910,
         "name": "Dungeon Fighter Online"
     },
     {
-        "appid": 495910,
+        "appid": 212220,
         "name": "Dungeon Fighter Online"
     },
     {
@@ -3054,10 +3054,6 @@
     {
         "appid": 549760,
         "name": "Evolution VR"
-    },
-    {
-        "appid": 1570210,
-        "name": "Exploratombe Playtest"
     },
     {
         "appid": 223650,
@@ -6856,11 +6852,11 @@
         "name": "Steam Dev Days: Steam 201 - Sound Advice from Successful Developers"
     },
     {
-        "appid": 550761,
+        "appid": 534626,
         "name": "Steam Dev Days: Steam Business Update"
     },
     {
-        "appid": 534626,
+        "appid": 550761,
         "name": "Steam Dev Days: Steam Business Update"
     },
     {
@@ -7164,11 +7160,11 @@
         "name": "Telepathy Zero"
     },
     {
-        "appid": 323370,
+        "appid": 389300,
         "name": "TERA"
     },
     {
-        "appid": 389300,
+        "appid": 323370,
         "name": "TERA"
     },
     {
@@ -7758,6 +7754,10 @@
     {
         "appid": 841300,
         "name": "Together"
+    },
+    {
+        "appid": 1570210,
+        "name": "Tomb Rumble Playtest"
     },
     {
         "appid": 381810,
