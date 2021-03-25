@@ -2,9 +2,7 @@
 
 ## Description
 
-Shows changes to the Steam profile.
-
-### Checks
+Shows changes to the Steam account.
 
 #### public
 
