@@ -1,5 +1,7 @@
 # testpublic
 
+ARCHIVED MOVE TO https://github.com/MalikSteam/account_public
+
 ## Description
 
 Shows changes to the Steam account.
