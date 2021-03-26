@@ -7160,11 +7160,11 @@
         "name": "Telepathy Zero"
     },
     {
-        "appid": 389300,
+        "appid": 323370,
         "name": "TERA"
     },
     {
-        "appid": 323370,
+        "appid": 389300,
         "name": "TERA"
     },
     {
@@ -8294,6 +8294,10 @@
     {
         "appid": 348620,
         "name": "Voices from the Sea"
+    },
+    {
+        "appid": 1569390,
+        "name": "Vostok 2061 Playtest"
     },
     {
         "appid": 495030,
